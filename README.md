@@ -253,3 +253,5 @@ test 123 somedir
 ### Полезные ссылки
 - [Статья о том, как пользоваться командной строкой linux](https://selectel.ru/blog/basic-linux-commands/)
 - [Git Book](https://git-scm.com/book/en/v2)
+
+
